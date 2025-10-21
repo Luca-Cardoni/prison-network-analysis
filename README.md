@@ -4,6 +4,7 @@ Social Network Analysis of prisoners relations in a 1950s prison dataset, using 
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Social Network Analysis of a 1950s Prison Population
 
 ## 1. Project Overview
@@ -69,6 +70,8 @@ To reproduce this analysis:
 3.  Ensure all required libraries (`igraph`, `Matrix`) are installed.
 4.  Run the script. All data is located in the `data/` folder.
 =======
+=======
+>>>>>>> Stashed changes
 
 \# Social Network Analysis of a 1950s Prison Population
 
@@ -198,4 +201,7 @@ To reproduce this analysis:
 
 4\.  Run the script. All data is located in the `data/` folder.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
