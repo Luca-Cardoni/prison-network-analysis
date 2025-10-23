@@ -1,21 +1,14 @@
-# prison-network-analysis
+# Prison Network Analysis
+This project is based on the “Prison” dataset, derived from the analysis by Gagnon and MacRae (referencing MacRae J., 1960), aimed at uncovering the social structure within a male prison in the 1950s.
 
-Social Network Analysis of prisoners relations in a 1950s prison dataset, using Gephi and R.
-
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-# Social Network Analysis of a 1950s Prison Population
+---
 
 ## 1. Project Overview
-
-This project applies Social Network Analysis (SNA) to the classic "Prison" dataset by MacRae (1960) to uncover the social structure within a male prison in the 1950s. The goal is to move beyond simple metrics and identify key influencers, communities, and the overall topology of the inmate network.
+The goal is to move beyond simple metrics and identify key influencers, communities, and the overall topology of the inmate network.
 
 **Tools Used:**
-* **R & igraph:** For statistical analysis, metric calculation, and community detection.
 * **Gephi:** For initial exploratory visualization.
-
+* **R:** For statistical analysis, metric calculation, and community detection.
 ---
 
 ## 2. Key Questions and Methodology
